@@ -1,0 +1,22 @@
+{
+  "OrderNumber": "TS_TEST1",
+  "Customer": "davi david",
+  "Date": "13/12/2021",
+  "Products": [
+    {
+      "Quantity": "1",
+      "Price": "10",
+      "Item": "blue"
+    },
+    {
+      "Quantity": "1",
+      "Price": "20",
+      "Item": "blue"
+    },
+    {
+      "Quantity": "1",
+      "Price": "20",
+      "Item": "blue"
+    }
+  ]
+}
